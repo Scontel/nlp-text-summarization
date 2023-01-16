@@ -510,3 +510,4 @@ Commit on 2023-01-13T12:48:58: Improve memory management during inference
 Commit on 2023-01-13T11:53:35: Update CI/CD pipeline configuration
 Commit on 2023-01-13T09:35:09: Update README with installation instructions
 Commit on 2023-01-16T11:37:46: Fix edge case in input validation
+Commit on 2023-01-16T15:50:32: Add configuration options for hyperparameters
