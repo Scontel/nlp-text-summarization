@@ -591,3 +591,4 @@ Commit on 2023-03-06T18:31:15: Fix minor bug in data processing
 Commit on 2023-03-06T13:20:10: Improve memory management during inference
 Commit on 2023-03-06T09:29:17: Add unit tests for new features
 Commit on 2023-03-06T16:04:49: Update README with installation instructions
+Commit on 2023-03-06T13:04:28: Improve memory management during inference
