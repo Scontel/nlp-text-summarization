@@ -600,3 +600,4 @@ Commit on 2023-03-09T16:12:40: Fix minor bug in data processing
 Commit on 2023-03-09T14:31:52: Update dependencies to latest versions
 Commit on 2023-03-09T16:08:24: Update dependencies to latest versions
 Commit on 2023-03-09T17:10:25: Improve memory management during inference
+Commit on 2023-03-09T16:35:35: Improve memory management during inference
