@@ -679,3 +679,4 @@ Commit on 2023-04-27T13:28:47: Clean up code and remove unused imports
 Commit on 2023-04-27T16:53:43: Add unit tests for new features
 Commit on 2023-04-27T13:27:57: Enhance security measures for API endpoints
 Commit on 2023-04-28T11:21:30: Enhance visualization of results
+Commit on 2023-05-01T10:13:00: Refactor core logic for better performance
