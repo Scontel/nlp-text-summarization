@@ -690,3 +690,4 @@ Commit on 2023-05-05T14:14:05: Enhance visualization of results
 Commit on 2023-05-09T12:12:11: Update README with installation instructions
 Commit on 2023-05-09T10:33:41: Enhance visualization of results
 Commit on 2023-05-09T09:51:59: Improve error handling and logging
+Commit on 2023-05-09T19:31:44: Add support for distributed training
