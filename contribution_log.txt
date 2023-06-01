@@ -719,3 +719,4 @@ Commit on 2023-05-24T11:07:29: Add support for distributed training
 Commit on 2023-05-25T10:12:43: Update README with installation instructions
 Commit on 2023-05-25T15:04:20: Improve error handling and logging
 Commit on 2023-05-25T19:06:18: Enhance security measures for API endpoints
+Commit on 2023-06-01T12:48:23: Add unit tests for new features
