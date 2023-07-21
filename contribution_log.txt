@@ -800,3 +800,4 @@ Commit on 2023-07-20T15:50:17: Update README with installation instructions
 Commit on 2023-07-20T17:28:50: Clean up code and remove unused imports
 Commit on 2023-07-21T12:39:48: Update documentation and examples
 Commit on 2023-07-21T14:15:27: Add support for distributed training
+Commit on 2023-07-21T15:58:54: Improve memory management during inference
