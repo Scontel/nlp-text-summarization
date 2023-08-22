@@ -850,3 +850,4 @@ Commit on 2023-08-21T18:45:43: Optimize model training loop
 Commit on 2023-08-21T16:09:47: Integrate new data source for training
 Commit on 2023-08-21T09:22:17: Add unit tests for new features
 Commit on 2023-08-21T13:01:15: Update documentation and examples
+Commit on 2023-08-22T12:30:31: Update README with installation instructions
