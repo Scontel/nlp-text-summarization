@@ -879,3 +879,4 @@ Commit on 2023-09-12T14:02:50: Improve memory management during inference
 Commit on 2023-09-12T11:55:15: Add unit tests for new features
 Commit on 2023-09-12T11:49:43: Update documentation and examples
 Commit on 2023-09-12T18:31:52: Improve memory management during inference
+Commit on 2023-09-12T13:48:44: Enhance visualization of results
