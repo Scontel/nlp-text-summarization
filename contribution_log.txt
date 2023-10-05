@@ -910,3 +910,4 @@ Commit on 2023-10-03T15:12:13: Update documentation and examples
 Commit on 2023-10-04T16:05:22: Fix minor bug in data processing
 Commit on 2023-10-04T17:06:02: Clean up code and remove unused imports
 Commit on 2023-10-04T11:22:43: Improve error handling and logging
+Commit on 2023-10-05T14:10:17: Update README with installation instructions
