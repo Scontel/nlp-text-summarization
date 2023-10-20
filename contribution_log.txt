@@ -936,3 +936,4 @@ Commit on 2023-10-18T19:41:58: Add unit tests for new features
 Commit on 2023-10-19T17:23:29: Implement caching mechanism for frequent requests
 Commit on 2023-10-20T17:46:52: Enhance security measures for API endpoints
 Commit on 2023-10-20T14:25:19: Optimize database queries for faster retrieval
+Commit on 2023-10-20T18:16:04: Update README with installation instructions
