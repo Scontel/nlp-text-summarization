@@ -942,3 +942,4 @@ Commit on 2023-10-24T12:44:17: Optimize database queries for faster retrieval
 Commit on 2023-10-25T19:07:58: Update documentation and examples
 Commit on 2023-10-25T09:18:54: Improve memory management during inference
 Commit on 2023-10-25T11:10:00: Optimize database queries for faster retrieval
+Commit on 2023-10-25T09:46:29: Add support for distributed training
