@@ -952,3 +952,4 @@ Commit on 2023-10-30T15:48:11: Refactor core logic for better performance
 Commit on 2023-10-30T13:07:41: Refactor core logic for better performance
 Commit on 2023-10-30T19:33:45: Fix minor bug in data processing
 Commit on 2023-10-31T19:11:51: Improve memory management during inference
+Commit on 2023-10-31T12:01:57: Add configuration options for hyperparameters
