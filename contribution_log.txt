@@ -1019,3 +1019,4 @@ Commit on 2023-12-07T19:37:17: Implement caching mechanism for frequent requests
 Commit on 2023-12-11T14:53:17: Enhance visualization of results
 Commit on 2023-12-12T17:15:28: Enhance security measures for API endpoints
 Commit on 2023-12-13T18:34:12: Enhance visualization of results
+Commit on 2023-12-14T17:11:20: Update README with installation instructions
