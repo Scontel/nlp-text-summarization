@@ -1021,3 +1021,4 @@ Commit on 2023-12-12T17:15:28: Enhance security measures for API endpoints
 Commit on 2023-12-13T18:34:12: Enhance visualization of results
 Commit on 2023-12-14T17:11:20: Update README with installation instructions
 Commit on 2023-12-15T18:47:49: Enhance visualization of results
+Commit on 2023-12-15T09:36:25: Improve error handling and logging
