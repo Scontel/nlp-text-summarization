@@ -1033,3 +1033,4 @@ Commit on 2023-12-20T17:30:18: Improve error handling and logging
 Commit on 2023-12-20T17:53:59: Enhance visualization of results
 Commit on 2023-12-21T11:27:38: Clean up code and remove unused imports
 Commit on 2023-12-21T13:59:11: Add configuration options for hyperparameters
+Commit on 2023-12-22T17:02:56: Update documentation and examples
