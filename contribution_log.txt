@@ -2,3 +2,4 @@ Commit on 2024-11-04T09:47:21: Update README with installation instructions
 Commit on 2024-11-06T11:48:23: Improve error handling and logging
 Commit on 2024-11-06T12:34:52: Fix edge case in input validation
 Commit on 2024-11-07T16:18:02: Update README with installation instructions
+Commit on 2024-11-11T11:06:00: Refactor core logic for better performance
