@@ -4,3 +4,4 @@ Commit on 2024-11-06T12:34:52: Fix edge case in input validation
 Commit on 2024-11-07T16:18:02: Update README with installation instructions
 Commit on 2024-11-11T11:06:00: Refactor core logic for better performance
 Commit on 2024-11-12T17:24:06: Enhance visualization of results
+Commit on 2024-11-13T12:22:40: Add configuration options for hyperparameters
