@@ -38,3 +38,4 @@ Commit on 2024-12-05T10:25:13: Add support for distributed training
 Commit on 2024-12-05T11:10:53: Optimize model training loop
 Commit on 2024-12-05T18:50:05: Update README with installation instructions
 Commit on 2024-12-06T18:23:00: Improve error handling and logging
+Commit on 2024-12-09T15:25:18: Improve memory management during inference
