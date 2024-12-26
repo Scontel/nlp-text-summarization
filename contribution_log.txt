@@ -58,3 +58,4 @@ Commit on 2024-12-24T09:41:17: Improve memory management during inference
 Commit on 2024-12-24T12:51:20: Add support for distributed training
 Commit on 2024-12-26T09:05:15: Fix minor bug in data processing
 Commit on 2024-12-26T18:49:49: Enhance visualization of results
+Commit on 2024-12-26T14:13:15: Add configuration options for hyperparameters
