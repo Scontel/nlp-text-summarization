@@ -73,3 +73,4 @@ Commit on 2025-01-08T16:22:15: Add unit tests for new features
 Commit on 2025-01-09T16:23:31: Optimize model training loop
 Commit on 2025-01-10T18:12:53: Improve error handling and logging
 Commit on 2025-01-15T13:39:44: Optimize model training loop
+Commit on 2025-01-17T18:48:37: Update README with installation instructions
