@@ -79,3 +79,4 @@ Commit on 2025-01-20T17:17:01: Update README with installation instructions
 Commit on 2025-01-20T18:42:48: Add configuration options for hyperparameters
 Commit on 2025-01-20T18:53:23: Update README with installation instructions
 Commit on 2025-01-20T16:04:03: Add configuration options for hyperparameters
+Commit on 2025-01-21T13:04:05: Clean up code and remove unused imports
