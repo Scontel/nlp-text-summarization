@@ -94,3 +94,4 @@ Commit on 2025-01-31T09:14:35: Clean up code and remove unused imports
 Commit on 2025-01-31T18:45:22: Add support for distributed training
 Commit on 2025-02-04T10:57:37: Add configuration options for hyperparameters
 Commit on 2025-02-05T18:35:04: Add support for distributed training
+Commit on 2025-02-06T13:50:49: Add unit tests for new features
