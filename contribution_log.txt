@@ -147,3 +147,4 @@ Commit on 2025-03-27T18:29:51: Add configuration options for hyperparameters
 Commit on 2025-03-27T17:04:08: Enhance visualization of results
 Commit on 2025-03-27T11:33:42: Clean up code and remove unused imports
 Commit on 2025-03-27T12:02:20: Fix edge case in input validation
+Commit on 2025-03-27T13:54:36: Update README with installation instructions
