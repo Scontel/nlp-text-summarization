@@ -149,3 +149,4 @@ Commit on 2025-03-27T11:33:42: Clean up code and remove unused imports
 Commit on 2025-03-27T12:02:20: Fix edge case in input validation
 Commit on 2025-03-27T13:54:36: Update README with installation instructions
 Commit on 2025-03-28T18:15:34: Refactor core logic for better performance
+Commit on 2025-03-28T10:53:37: Add configuration options for hyperparameters
