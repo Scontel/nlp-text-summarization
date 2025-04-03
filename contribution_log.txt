@@ -153,3 +153,4 @@ Commit on 2025-03-28T10:53:37: Add configuration options for hyperparameters
 Commit on 2025-04-01T14:06:12: Fix edge case in input validation
 Commit on 2025-04-01T14:08:48: Add support for distributed training
 Commit on 2025-04-03T13:47:22: Fix edge case in input validation
+Commit on 2025-04-03T13:04:33: Update documentation and examples
