@@ -226,3 +226,4 @@ Commit on 2025-06-05T10:11:40: Add unit tests for new features
 Commit on 2025-06-05T14:48:26: Improve memory management during inference
 Commit on 2025-06-09T13:03:56: Improve memory management during inference
 Commit on 2025-06-09T17:37:42: Refactor core logic for better performance
+Commit on 2025-06-09T17:08:59: Update README with installation instructions
