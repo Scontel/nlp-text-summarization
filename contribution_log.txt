@@ -241,3 +241,4 @@ Commit on 2025-06-19T15:25:18: Enhance visualization of results
 Commit on 2025-06-20T15:21:17: Add unit tests for new features
 Commit on 2025-06-20T15:27:40: Improve memory management during inference
 Commit on 2025-06-20T13:07:51: Add unit tests for new features
+Commit on 2025-06-23T11:53:28: Update documentation and examples
