@@ -259,3 +259,4 @@ Commit on 2025-07-14T09:44:07: Improve memory management during inference
 Commit on 2025-07-14T13:24:32: Add configuration options for hyperparameters
 Commit on 2025-07-14T13:51:53: Enhance visualization of results
 Commit on 2025-07-15T18:38:55: Clean up code and remove unused imports
+Commit on 2025-07-16T17:13:33: Add support for distributed training
