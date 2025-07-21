@@ -266,3 +266,4 @@ Commit on 2025-07-17T13:21:06: Clean up code and remove unused imports
 Commit on 2025-07-17T09:49:11: Refactor core logic for better performance
 Commit on 2025-07-18T11:35:55: Update README with installation instructions
 Commit on 2025-07-21T18:46:03: Update README with installation instructions
+Commit on 2025-07-21T16:37:18: Add support for distributed training
