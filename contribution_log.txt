@@ -275,3 +275,4 @@ Commit on 2025-07-24T12:06:18: Fix edge case in input validation
 Commit on 2025-07-24T10:24:08: Improve memory management during inference
 Commit on 2025-07-24T13:10:45: Enhance visualization of results
 Commit on 2025-07-25T09:20:18: Add support for distributed training
+Commit on 2025-07-25T10:46:28: Update dependencies to latest versions
