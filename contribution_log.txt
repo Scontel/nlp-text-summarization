@@ -314,3 +314,4 @@ Commit on 2025-09-01T09:03:08: Add configuration options for hyperparameters
 Commit on 2025-09-03T11:07:15: Optimize model training loop
 Commit on 2025-09-04T15:41:18: Refactor core logic for better performance
 Commit on 2025-09-10T10:07:11: Improve error handling and logging
+Commit on 2025-09-11T11:55:40: Update README with installation instructions
