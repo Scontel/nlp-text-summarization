@@ -323,3 +323,4 @@ Commit on 2025-09-17T14:14:50: Add configuration options for hyperparameters
 Commit on 2025-09-17T17:39:02: Clean up code and remove unused imports
 Commit on 2025-09-18T16:24:30: Enhance visualization of results
 Commit on 2025-09-18T17:26:39: Add unit tests for new features
+Commit on 2025-09-19T17:06:58: Improve memory management during inference
