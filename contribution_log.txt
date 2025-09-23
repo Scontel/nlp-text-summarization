@@ -327,3 +327,4 @@ Commit on 2025-09-19T17:06:58: Improve memory management during inference
 Commit on 2025-09-22T16:37:51: Add configuration options for hyperparameters
 Commit on 2025-09-23T15:12:55: Fix minor bug in data processing
 Commit on 2025-09-23T10:56:24: Fix minor bug in data processing
+Commit on 2025-09-23T10:31:40: Add unit tests for new features
