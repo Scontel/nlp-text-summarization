@@ -338,3 +338,4 @@ Commit on 2025-10-06T10:13:00: Add configuration options for hyperparameters
 Commit on 2025-10-07T09:52:13: Improve memory management during inference
 Commit on 2025-10-07T18:04:20: Update README with installation instructions
 Commit on 2025-10-08T14:44:38: Update documentation and examples
+Commit on 2025-10-08T11:34:15: Fix edge case in input validation
