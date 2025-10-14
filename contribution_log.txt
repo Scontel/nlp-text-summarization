@@ -349,3 +349,4 @@ Commit on 2025-10-13T13:07:35: Improve memory management during inference
 Commit on 2025-10-13T12:09:04: Add unit tests for new features
 Commit on 2025-10-14T17:22:40: Add configuration options for hyperparameters
 Commit on 2025-10-14T14:18:02: Update dependencies to latest versions
+Commit on 2025-10-14T14:03:14: Fix edge case in input validation
