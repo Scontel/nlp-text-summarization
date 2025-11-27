@@ -380,3 +380,4 @@ Commit on 2025-11-25T10:21:15: Enhance visualization of results
 Commit on 2025-11-25T10:41:49: Implement new algorithm for data augmentation
 Commit on 2025-11-26T17:07:48: Enhance visualization of results
 Commit on 2025-11-27T18:00:37: Improve memory management during inference
+Commit on 2025-11-27T16:12:23: Update documentation and examples
