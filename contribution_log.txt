@@ -382,3 +382,4 @@ Commit on 2025-11-26T17:07:48: Enhance visualization of results
 Commit on 2025-11-27T18:00:37: Improve memory management during inference
 Commit on 2025-11-27T16:12:23: Update documentation and examples
 Commit on 2025-11-28T16:40:02: Add configuration options for hyperparameters
+Commit on 2025-12-01T13:48:12: Improve error handling and logging
