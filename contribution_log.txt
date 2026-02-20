@@ -449,3 +449,4 @@ Commit on 2026-02-13T09:18:00: Add configuration options for hyperparameters
 Commit on 2026-02-17T11:30:50: Refactor core logic for better performance
 Commit on 2026-02-18T17:03:24: Improve memory management during inference
 Commit on 2026-02-18T10:07:16: Add configuration options for hyperparameters
+Commit on 2026-02-20T10:11:39: Update README with installation instructions
